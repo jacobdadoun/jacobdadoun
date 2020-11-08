@@ -1,4 +1,5 @@
-### Hey 🕊 I'm Jacob Dadoun.
+### Hello I'm Jacob!
+#### Welcome to my GitHub
 
 <!-- Credit to carlsednaoui/gitsocial: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
