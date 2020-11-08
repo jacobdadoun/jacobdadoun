@@ -2,8 +2,9 @@
 
 Welcome to my GitHub! Before we dive into my repos, here's a little about me:
 
-⏳ I’m currently working on a product inventory application
-🚀 I’m learning computer methodology, advaced oop (with c#), operating systems (with c++) and android dev (with java and andriod api)
+Currently working on a product inventory application \n
+Learning computer methodology, advaced oop (with c#), operating systems (with c++) and android dev (with java and andriod api)
+bird \n
 
 
 
