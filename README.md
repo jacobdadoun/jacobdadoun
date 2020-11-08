@@ -2,7 +2,6 @@
 #### Welcome to my GitHub. You can catch me on other platforms as well.
 
 <!-- Credit to carlsednaoui/gitsocial: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
 <!-- display the social media buttons in your README -->
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -18,19 +17,14 @@
 [2]: http://www.facebook.com/JacobDadoun
 [3]: http://www.github.com/jacobdadoun
 
-👨‍🎓  I'm in my 5th semester at [Touro College](https://www.touro.edu/). Working on my Bachelor of Science for CompuSci
+#### Here's a little about me
 
--  This semester I'm taking up new heights while learning Computer Methodology, Operating Systems (with C++), Advanced OOP (with C#) and Android Development (Java & Android API)
+- 👨‍🎓  I'm in my 5th semester at [Touro College](https://www.touro.edu/). Working on my Bachelor of Science for CompuSci
 
-📦 Currently working on a product inventory application
+-  This semester I'm taking on new heights while learning Computer Methodology, Operating Systems (with C++), Advanced OOP (with C#) and Android Development (Java & Android API)
 
-⏳ Learning computer methodology, advaced oop (with c#), operating systems (with c++) and android dev (with java and andriod api)
+- 📦 Currently working on a product inventory application
 
-🚀 I’m looking to collaborate by bringing creative solutions to any of my contributions
+- ⏳ Learning computer methodology, advaced oop (with c#), operating systems (with c++) and android dev (with java and andriod api)
 
-
-
-<!--
-**jacobdadoun/jacobdadoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
+- 🚀 I’m looking to collaborate by bringing creative solutions to any of my contributions
