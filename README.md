@@ -1,5 +1,5 @@
 ### Hello I'm Jacob!
-#### Welcome to my GitHub
+#### Welcome to my GitHub. You can catch me on other platforms as well.
 
 <!-- Credit to carlsednaoui/gitsocial: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
