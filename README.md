@@ -1,4 +1,4 @@
-## Hello I'm Jacob!
+## Hello, I'm Jacob! But you can call me Jake.
 
 ### Welcome to my GitHub! Here's a little about me...
 
