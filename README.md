@@ -17,7 +17,9 @@
 [2]: http://www.facebook.com/JacobDadoun
 [3]: http://www.github.com/jacobdadoun
 
-👨‍🎓 I'm a student at Touro College
+👨‍🎓  I'm in my 5th semester at [Touro College](https://www.touro.edu/). Working on my Bachelor of Science for CompuSci
+
+-  This semester I'm taking up new heights while learning Computer Methodology, Operating Systems, Advanced OOP and Android Development
 
 📦 Currently working on a product inventory application
 
