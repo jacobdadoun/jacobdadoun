@@ -4,11 +4,9 @@
 
 - 👨‍🎓  I'm in my 5th semester at [Touro College](https://www.touro.edu/). Working on my Bachelor of Science for CompuSci
 
--  This semester I'm taking on new heights while learning Computer Methodology, Operating Systems (with C++), Advanced OOP (with C#) and Android Development (Java & Android API)
+- 💻 This semester I'm taking on new heights while learning Computer Methodology, Operating Systems (with C++), Advanced OOP (with C#) and Android Development (Java & Android API)
 
 - 📦 Currently working on a product inventory application
-
-- ⏳ Learning computer methodology, advaced oop (with c#), operating systems (with c++) and android dev (with java and andriod api)
 
 - 🚀 I’m looking to collaborate by bringing creative solutions to any of my contributions
 
