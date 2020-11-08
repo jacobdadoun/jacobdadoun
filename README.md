@@ -1,10 +1,8 @@
 ### Hey 🕊 I'm Jacob Dadoun.
 
-Welcome to my GitHub! Before we dive into my repos, here's a little about me:
-
-Currently working on a product inventory application \n
-Learning computer methodology, advaced oop (with c#), operating systems (with c++) and android dev (with java and andriod api)
-bird \n
+I'm a student at Touro College. 
+Currently working on a product inventory application. 
+Learning computer methodology, advaced oop (with c#), operating systems (with c++) and android dev (with java and andriod api). 
 
 
 
