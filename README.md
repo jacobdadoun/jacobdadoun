@@ -6,7 +6,7 @@
 
 - 💻 This semester I'm taking on new heights while learning Computer Methodology, Operating Systems (with C++), Advanced OOP (with C#) and Android Development (Java & Android API)
 
-- 📦 Currently working on a product inventory application
+- 📦 Currently working on an Airline Reservation System. Check it out!
 
 - 🚀 I’m looking to collaborate by bringing creative solutions to any of my contributions
 
